@@ -16,12 +16,6 @@ The program asks 5 general knowledge questions, takes user input, and shows the 
 
 ---
 
-## 🧪 How to Run
-
-```bash
-python hasg.py
-
----
 
 📁 Project Structure
 .
